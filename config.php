@@ -1,7 +1,7 @@
 <?php
 
 	$servername = "localhost";
-	$username = "id17254259_root";
+	$username = "root";
 	$password = "";
 	$dbname = "id17254259_dsb_bank";
 
